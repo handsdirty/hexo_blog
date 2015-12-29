@@ -1,2 +1,2 @@
 # hexo_blog
-Zhe's blog by hexo.
+Zhe's blog source code by hexo.
