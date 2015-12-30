@@ -7,7 +7,7 @@ title: Zhe Song's Blog
 subtitle: 宋哲的博客
 description:
 author: Zhe Song
-language: zh
+language: zh-CN
 timezone: America/Los_Angeles
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
