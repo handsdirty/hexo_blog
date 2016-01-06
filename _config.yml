@@ -62,8 +62,20 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
 ## Themes: https://hexo.io/themes/
 theme: maupassant
+
+## Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+
+## Sitemap
+sitemap:
+  path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
