@@ -5,6 +5,8 @@ categories:
 - Tech
 tags:
 - GitHub
+- Chinese
+- NotTranslatedYet
 ---
 
 在我看来，使用GitHub也存在如《人间词话》中的三重境界。

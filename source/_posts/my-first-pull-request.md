@@ -5,6 +5,8 @@ categories:
 - Tech
 tags:
 - GitHub
+- Chinese
+- NotTranslatedYet
 ---
 
 今天第一次在GitHub上完成了Pull Request，颇有纪念意义。代码只有区区两行，却是我第一次在GitHub技术社区“改进”了别人的代码库，大言不惭地讲，这微小的正作用将随着时间、用户的增长而传递下去。

@@ -1,6 +1,9 @@
 ---
-title: Hello World. 你好，博客。
+title: 你好，博客。
 date: 2015-12-29 00:01:01
+lang: zh-CN
+tags:
+- Chinese
 ---
 坚持写一个价值博客是我长久以来的愿望。
 2015即将过去，现在就开始吧。
