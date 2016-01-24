@@ -11,5 +11,7 @@ Thanks for your interests in me, I am Zhe Song whose debut happened in the recen
 
 - LinkedIn: https://www.linkedin.com/in/zhe-song-b1120545
 - GitHub: https://github.com/handsdirty
-
-
+- Twitter: https://twitter.com/ZheSong
+- Weibo: http://weibo.com/1995204241/
+- Zhihu: https://www.zhihu.com/people/zhesong
+- Quora: https://www.quora.com/profile/Zhe-Song-1

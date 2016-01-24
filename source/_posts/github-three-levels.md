@@ -6,7 +6,6 @@ categories:
 tags:
 - GitHub
 - Chinese
-- NotTranslatedYet
 ---
 
 在我看来，使用GitHub也存在如《人间词话》中的三重境界。
@@ -32,6 +31,7 @@ tags:
 江湖上都称呼你为大牛，在一年一度的InfoQ北京峰会上，凤凰科技一个带黑框眼镜的长发美女记者问你，“在成长为大牛的道路上，你最感谢谁？” 眼前的这个妹妹好像在哪里见过，你用拇指和食指摸了摸下巴，看着她的眼睛，缓缓说道，“感谢爸妈，感谢GitHub。”
 
 附言：
+0. [英文版请点这里](2016/01/06/github-three-levels-en/).
 1. 想了解更多我和GitHub的故事，请阅读 [《GitHub Pull Request初体验 | 给Hexo博客留言页面添加评论系统》](http://handsdirty.github.io/2015/12/30/my-first-pull-request/)。
 2. 本文第一次发表于 [SegmentFault](http://segmentfault.com/q/1010000004240527/a-1020000004255675)。
 3. 本文亦发表于知乎 [问题一](https://www.zhihu.com/question/28976652/answer/80189926)和[问题二](https://www.zhihu.com/question/20070065/answer/80189595)。
