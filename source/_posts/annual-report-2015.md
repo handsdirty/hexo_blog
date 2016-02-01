@@ -6,7 +6,6 @@ categories:
 tags:
 - Interview
 - Chinese
-- NotTranslatedYet
 ---
 在*Cupertino Music Channel Room 110*《难忘今宵》的歌声中，宋哲和他的朋友们迎来了2016的第一秒钟，一行人告别后进入**连续并排停靠的五辆车**，发动引擎，驶入了2016的生活。此时，如果我们的摄影师小宋在场的话，一定会按下快门，记录下这还原度99%的《速度与激情》画面。
 
