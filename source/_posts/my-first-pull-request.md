@@ -41,4 +41,4 @@ tags:
 记者在加州山景城的Castro Street和Villa Street的路口，采访了一名刚刚完成了第一个pull request的程序员，你现在在想什么。
 他会拿起话筒说，“感谢郭嘉，如果明年能够给TensorFlow之类的名库贡献一些solid的代码和feature，听起来还蛮牛的，不错哦。”
 
-[点击这里阅读英文版](2015/12/30/my-first-pull-request/)
+[点击这里阅读英文版](2015/12/30/my-first-pull-request-en/)
