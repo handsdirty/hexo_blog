@@ -1,6 +1,7 @@
 ---
-title: For Li Bai's 1315th Birthday
+title: For Li Bai 1315th Birthday
 date: 2016-03-06 23:36:16
+comments: true
 categories:
 - Life
 tags:

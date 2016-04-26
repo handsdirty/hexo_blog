@@ -1,5 +1,5 @@
 ---
-title: My Father's Two Stories | So What If You Win In the Beginning
+title: Two Stories of My Father | So What If You Win In the Beginning
 date: 2016-01-31 22:15:35
 categories:
 - Life

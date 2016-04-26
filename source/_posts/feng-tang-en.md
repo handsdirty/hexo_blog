@@ -1,5 +1,5 @@
 ---
-title: Feng Tang - Young Men's Idol in Modern China
+title: Feng Tang - Young Men Idol in Modern China
 date: 2016-02-21 15:14:07
 categories:
 - Life
