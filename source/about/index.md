@@ -5,9 +5,9 @@ comments: false
 lang: en
 ---
 
-谢谢你的好奇心，我是宋哲，软件工程师，出道于不久前的2014年，现居加州硅谷。
+谢谢你的好奇心，我是宋哲，软件工程师，出道于不久前的2014年，现居上海法租界，原谷歌总部工程师。
 
-Thanks for your interests in me, I am Zhe Song whose debut happened in the recent 2014, and I am living in Silicon Valley.
+Thanks for your interests in me, I am Zhe Song whose debut happened in the recent 2014, and I am living in Shanghai now.
 
 - LinkedIn: https://www.linkedin.com/in/zhe-song-b1120545
 - GitHub: https://github.com/handsdirty
