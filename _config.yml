@@ -4,13 +4,13 @@
 
 # Site
 title: Zhe Song's International Blog
-subtitle: 宋哲的国际博客
+subtitle: 宋哲的国际博客，微信公众号songzheglobal
 description:
 author: Zhe Song
 language:
 - en
 - zh-CN
-timezone: America/Los_Angeles
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
