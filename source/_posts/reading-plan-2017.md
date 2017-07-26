@@ -1,9 +1,10 @@
 ---
 title: 2017年读书规划
 categories:
-  - Life or Tech
+  - Life
 tags:
-  - Fun or Social
+  - Fun
+  - Reading
 date: 2017-02-26 17:04:59
 ---
 
